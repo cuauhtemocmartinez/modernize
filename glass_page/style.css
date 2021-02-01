@@ -57,6 +57,10 @@ main {
     rgba(255, 255, 255, 0.8),
     rgba(255, 255, 255, 0.3)
   );
+  border-radius: 2rem;
+}
+.link {
+  display: flex;
 }
 .games {
   flex: 1;

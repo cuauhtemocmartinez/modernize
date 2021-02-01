@@ -47,6 +47,8 @@ main {
 }
 .dashboard {
   flex: 1;
+  display: flex;
+  flex-direction: column;
 }
 .games {
   flex: 1;

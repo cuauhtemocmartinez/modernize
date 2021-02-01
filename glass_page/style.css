@@ -61,6 +61,8 @@ main {
 }
 .link {
   display: flex;
+  margin: 2rem 0rem;
+  padding: 1rem 5rem;
 }
 .games {
   flex: 1;

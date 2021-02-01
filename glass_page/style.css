@@ -71,5 +71,9 @@ main {
 .games {
   flex: 1;
 }
-
-/* MIN 22:17 */
+.pro {
+  background: linear-gradient(to right top, #65dfc9, #6cdbed);
+  border-radius: 2rem;
+  color: white;
+  padding: 1rem;
+}

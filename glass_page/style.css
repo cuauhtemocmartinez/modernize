@@ -3,6 +3,11 @@
   padding: 0;
   box-sizing: border-box;
 }
+h1 {
+  color: 426696;
+  font-weight: 600;
+  font-size: 3rem;
+}
 main {
   min-height: 100vh;
   background: linear-gradient(to right top, #65dfc9, #6cdbed);

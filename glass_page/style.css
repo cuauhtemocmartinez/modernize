@@ -9,6 +9,10 @@ h1 {
   font-size: 3rem;
   opacity: 0.8;
 }
+h2 {
+  color: 658ec6;
+  font-weight: 500;
+}
 main {
   min-height: 100vh;
   background: linear-gradient(to right top, #65dfc9, #6cdbed);

@@ -103,6 +103,19 @@ main {
 }
 .pro h2 {
   width: 40%;
+  color: white;
+  font-weight: 600;
 }
 
-/* 29:55 */
+/* Games */
+.status {
+  margin-bottom: 3rem;
+}
+.status input {
+  background: linear-gradient(
+    to right bottom,
+    rgba(255, 255, 255, 0.7),
+    rgba(255, 255, 255, 0.3)
+  );
+  border: none;
+}

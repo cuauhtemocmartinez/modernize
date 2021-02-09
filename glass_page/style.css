@@ -147,6 +147,7 @@ main {
   height: 25%;
   border-radius: 1rem;
   position: relative;
+  overflow: hidden;
 }
 .progress::after {
   content: "";
@@ -154,4 +155,5 @@ main {
   height: 100%;
   background: rgb(236, 236, 236);
   position: absolute;
+  left: 60%;
 }

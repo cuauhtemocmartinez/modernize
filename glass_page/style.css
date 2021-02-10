@@ -31,7 +31,7 @@ main {
 .glass {
   background: white;
   height: 90vh;
-  width: 70%;
+  width: 65%;
   background: linear-gradient(
     to right bottom,
     rgba(255, 255, 255, 0.7),
@@ -189,3 +189,6 @@ main {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
+
+/* MAKE RESPONSIVE */
+/* UPDATE IMAGES */

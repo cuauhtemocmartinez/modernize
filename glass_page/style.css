@@ -68,6 +68,18 @@ main {
   position: absolute;
   border-radius: 50%;
 }
+.circle5 {
+  background: white;
+  background: linear-gradient(
+    to right bottom,
+    rgba(255, 255, 255, 0.8),
+    rgba(255, 255, 255, 0.3)
+  );
+  height: 10rem;
+  width: 10rem;
+  position: absolute;
+  border-radius: 50%;
+}
 .circle1 {
   top: 20%;
   right: 4%;
@@ -81,6 +93,10 @@ main {
   left: 10%;
 }
 .circle4 {
+  bottom: 3%;
+  right: 1%;
+}
+.circle5 {
   bottom: 3%;
   right: 1%;
 }

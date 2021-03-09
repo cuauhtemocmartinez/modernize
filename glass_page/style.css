@@ -254,9 +254,7 @@ main {
   .circle5 {
     display: none;
   }
-
-  /*     .dashboard {
-    flex: 1;
+  .dashboard {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -269,7 +267,7 @@ main {
     );
     border-radius: 2rem;
   }
-  .link {
+  /*       .link {
     display: flex;
     margin: 2rem 0rem;
     padding: 1rem 5rem;
